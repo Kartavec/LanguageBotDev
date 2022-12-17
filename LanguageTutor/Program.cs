@@ -10,7 +10,6 @@ namespace LanguageTutor
             tutor.AddWord("hello", "привет");
             tutor.AddWord("dog", "собака");
             tutor.AddWord("cat", "кошка");
-            tutor.AddWord("byke", "велосипед");
 
             while (true)
             {
